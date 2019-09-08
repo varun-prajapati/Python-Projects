@@ -1,2 +1,2 @@
 # Python-Projects
-Following repository contains few projects which were developed wile learning python with hands on approach.
+Following repository contains few projects which were developed while learning python with hands on approach.
