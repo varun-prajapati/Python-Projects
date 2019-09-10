@@ -6,6 +6,9 @@ Features:
 - get nearest matching words from dictionary if entered query does not exist in language
 - application terminates when word is found in dictionary or /exit is entered
 
+Additional Files:
+1] data.json: contains stored database of english dictionary in python dictionary format i.e. key-value(s) pairs
+
 Libraries:
 os      : to clear screen in windowsand linux terminals
 json    : to get dictionary data from data.json file
